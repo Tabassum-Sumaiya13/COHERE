@@ -1,0 +1,13 @@
+held,cluster,cluster_name,native_labels,support,train_cohorts_covering,train_cells_covering,top_dest_cluster,top_dest_name,top_dest_share,top_dest_covered,failure_mode
+CRC,10,FCGR3A|FCGR3B+,smooth muscle; plasma cells; immune cells; CD11b+ monocytes; CD3+ T cells,999,"Keren, Sorin",39312,3,CD3D|CD3E|CD3G+ LAG3+ PDCD1+,0.313,True,swallowed by the fold's dominant predicted class
+Phillips,12,ITGAX+ VIM-,"DCs, CD11c+",5,CRC,400,9,FUT4+ ITGAM+ MKI67+,0.6,True,absorbed by a specific covered sibling
+Phillips,19,CD68+ ICOS-,mast cells,84,"Danenberg, Sorin, ferguson",228997,1,CD68+ FUT4+ CD163+,0.393,True,absorbed by a specific covered sibling
+Danenberg,3,FUT4+ ITGAM+ NCAM1+,Ep Ki67^{+}; Granulocytes,470,CRC,22144,18,CD3D|CD3E|CD3G+ PTPRC+ ICOS+ CD274-,0.247,True,no consistent destination (scattered)
+Danenberg,4,CD8A+ PTPRC+ CD3D|CD3E|CD3G+,CD8^{+} T cells,415,CRC,33336,24,CD8A+ LAG3+ PDCD1+,0.713,True,absorbed by a specific covered sibling
+Danenberg,14,CD274+ HLA-DRA|HLA-DRB1|HLA-DRB5+ COL4A1|COL4A2|COL4A3|COL4A4|COL4A5|COL4A6+,CK^{med}ER^{lo},426,CRC,659,20,KRT1|KRT4|KRT5|KRT6A|KRT7|KRT8|KRT10|KRT13|KRT14|KRT15|KRT16|KRT17|KRT18|KRT19|KRT20+ VIM-,0.221,True,no consistent destination (scattered)
+Danenberg,29,ACTA2+ FOXP3+ PTPRC+,MHC I^{hi}CD57^{+},69,UPMC,13251,5,MS4A1+ PTPRC+ PTPRC+,0.261,True,no consistent destination (scattered)
+Danenberg,37,GZMB+ CD68+ SDC1+ PTPRC-,Fibroblasts FSP1^{+},294,"Phillips, Sorin",199492,5,MS4A1+ PTPRC+ PTPRC+,0.418,True,absorbed by a specific covered sibling
+Danenberg,38,LAG3+ COL4A1|COL4A2|COL4A3|COL4A4|COL4A5|COL4A6+ TP53+ CD68-,CD57^{+},59,Phillips,572,18,CD3D|CD3E|CD3G+ PTPRC+ ICOS+ CD274-,0.169,True,no consistent destination (scattered)
+Sorin,11,CD3D|CD3E|CD3G+ PTPRC+ ACTA2-,Th; T other,1046,CRC,2492,5,CD3D|CD3E|CD3G+ CD4+ PTPRC+,0.764,True,absorbed by a specific covered sibling
+Sorin,13,ICOS+ CD274+ HLA-DRA|HLA-DRB1|HLA-DRB5+ B3GAT1-,Int Mo,341,CRC,815,1,CD163+ CD68+ CD274+,0.891,True,swallowed by the fold's dominant predicted class
+Sorin,18,IDO1+ ITGAX+ NCAM1+ TP53-,DCs cell,170,Keren,674,1,CD163+ CD68+ CD274+,0.841,True,swallowed by the fold's dominant predicted class

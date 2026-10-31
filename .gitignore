@@ -27,3 +27,5 @@ pipeline3/
 
 # stage reports stay local
 /reports/
+/generate_Fig
+/figures_publication

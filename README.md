@@ -39,6 +39,15 @@ Leave-one-cohort-out: hide one cohort, train on the other six, score the hidden 
 
 Full details: [thesis_report/methodology.md](thesis_report/methodology.md) and [thesis_report/results.md](thesis_report/results.md).
 
+## Research workflow
+
+The end-to-end study design is shown in [`figures/research_workflow.png`](figures/research_workflow.png).
+Regenerate the diagram with:
+
+```bash
+python generate_research_workflow.py
+```
+
 ## How to run
 
 Python 3.12 with torch, pandas, numpy, scipy, scikit-learn, networkx and matplotlib. Run from the repo root:
