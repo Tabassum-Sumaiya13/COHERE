@@ -37,7 +37,7 @@ Leave-one-cohort-out: hide one cohort, train on the other six, score the hidden 
 - A published baseline (MAPS) scores 0.332. With only 7 cohorts, the two are a statistical tie.
 - Spatial context and a batch adversary did not give a measurable gain.
 
-Full details: [thesis_report/methodology.md](thesis_report/methodology.md) and [thesis_report/results.md](thesis_report/results.md).
+Full details: [thesis_report/methodology.md](thesis_report/methodology.md), ), and [thesis_report/results.md](thesis_report/results.md).
 
 ## Research workflow
 
