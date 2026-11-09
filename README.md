@@ -1,4 +1,4 @@
-# A Transferable Cell-Type Representation Framework Across Heterogeneous Spatial Proteomics Datasets
+# COHERE: Cross-Cohort Harmonization and Representation Transfer for Spatial Proteomics Cell-Type Annotation
 
 Can a model label cell types in a dataset it has never seen, when that dataset uses a different machine, antibody panel, tissue and label names?
 
